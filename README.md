@@ -10,4 +10,4 @@ Editor Code, Prefab
 3. Use the item labeled "Post Processing" to apply correction effects.
 
 # Release
-
+https://github.com/MissingE/Unity_Auto_PostProcessing/releases/tag/Unity_Auto_PostProcessing
